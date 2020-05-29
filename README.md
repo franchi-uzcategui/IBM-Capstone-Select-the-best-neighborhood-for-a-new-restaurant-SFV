@@ -29,3 +29,5 @@ The type of cuisine for the Restaurant is not defined yet. But, thanks to the cl
 Knowing the most common Restaurant and Places to eat helps to refine the options because the client can make wise decisions based on customers’ preferences.
 
 Source: [1] https://en.wikipedia.org/wiki/San_Fernando_Valley, [2] https://laedc.org/wtc/chooselacounty/regions-of-la-county/san-fernando-valley/
+
+My portfolio: https://franchiuzcategui.wordpress.com/2020/05/29/select-the-best-neighborhood-for-a-new-restaurant-sfv/
