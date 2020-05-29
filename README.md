@@ -27,3 +27,5 @@ The results of the most common venues help us to know more about the Restaurant 
 Conclusion
 The type of cuisine for the Restaurant is not defined yet. But, thanks to the clusters’ finds, the client can decide his strategy, either competitive within the established market or innovative to different kinds of cuisines.
 Knowing the most common Restaurant and Places to eat helps to refine the options because the client can make wise decisions based on customers’ preferences.
+
+Source: [1] https://en.wikipedia.org/wiki/San_Fernando_Valley, [2] https://laedc.org/wtc/chooselacounty/regions-of-la-county/san-fernando-valley/
